@@ -72,7 +72,8 @@ ylabel("Phase (radians)");
 title("Phase Spectrum");
 ```
 # OUTPUT: 
-<img width="1915" height="1015" alt="image" src="https://github.com/user-attachments/assets/916d1cc6-0cd6-4974-90c5-66a175866a98" />
+![WhatsApp Image 2025-09-22 at 16 06 15_63f76fa5](https://github.com/user-attachments/assets/2abc4974-5dea-4db6-91b8-491e3d5ddce2)
+
 
 
 # RESULT: 
